@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cruise App</string>
+    <string name="edit_file">Enter URL of file</string>
+    <string name="button_display">Display Cruises</string>
+    <string name="text_main">Cruises will be displayed here.</string>
+</resources>
