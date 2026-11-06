@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_display"
+        android:title="Display list"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_load_web"
+        android:title="Load from web"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add"
+        android:title="Add cruise"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_details"
+        android:title="Cruise details"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_remove"
+        android:title="Remove cruise"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_most_expensive"
+        android:title="Most expensive"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_avg_length"
+        android:title="Average length"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_avg_per_day"
+        android:title="Average per day"
+        app:showAsAction="never" />
+</menu>
